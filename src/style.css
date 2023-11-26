@@ -1,0 +1,13 @@
+@tailwind base;
+
+body,
+html,
+#app {
+  min-height: 100vh;
+}
+
+body {
+  background-color: rgba(228, 226, 226, 0.3);
+}
+@tailwind components;
+@tailwind utilities;
